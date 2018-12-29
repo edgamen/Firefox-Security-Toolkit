@@ -22,10 +22,10 @@ bash ./firefox_security_toolkit.sh
 [Demo Video](https://www.youtube.com/watch?v=0pD-tNrxrzY)
 
 # Available Add-ons #
-* Advanced Dork (https://addons.mozilla.org/en-US/firefox/addon/advanced-dork/)
-* Cookie Export/Import (https://addons.mozilla.org/en-US/firefox/addon/cookies-exportimport/)
-* Cookie Manager+ (https://addons.mozilla.org/en-US/firefox/addon/cookies-manager-plus/)
-* Copy as Plain Text (https://addons.mozilla.org/en-US/firefox/addon/copy-as-plain-text/)
+* Advanced Dork (https://addons.mozilla.org/en-US/firefox/addon/advanced-dork/) (Deprecated)
+* Cookie Export/Import (https://addons.mozilla.org/en-US/firefox/addon/cookies-exportimport/) (Deprecated)
+* Cookie Manager+ (https://addons.mozilla.org/en-US/firefox/addon/cookies-manager-plus/) (Deprecated)
+* Copy as Plain Text (https://addons.mozilla.org/en-US/firefox/addon/copy-as-plain-text/) (Deprecated)
 * Crypto Fox (https://addons.mozilla.org/en-US/firefox/addon/cryptofox/)
 * CSRF-Finder (https://addons.mozilla.org/en-us/firefox/addon/csrf-finder/)
 * Disable WebRTC (https://addons.mozilla.org/en-US/firefox/addon/happy-bonobo-disable-webrtc/)
@@ -38,7 +38,7 @@ bash ./firefox_security_toolkit.sh
 * IP Address and Domain Information (https://addons.mozilla.org/en-US/firefox/addon/ip-address-and-domain-info/)
 * JavaScript Deobfuscator (https://addons.mozilla.org/en-US/firefox/addon/javascript-deobfuscator/)
 * Live HTTP Headers (https://addons.mozilla.org/en-US/firefox/addon/live-http-headers-fixed-by-dan/)
-* PassiveRecon (https://addons.mozilla.org/en-US/firefox/addon/passiverecon/)
+* PassiveRecon (https://addons.mozilla.org/en-US/firefox/addon/passiverecon/) (Deprecated)
 * Regular Expressions Tester (https://addons.mozilla.org/en-US/firefox/addon/rext/)
 * RESTED (https://addons.mozilla.org/en-US/firefox/addon/rested/)
 * Right-Click XSS (https://addons.mozilla.org/en-us/firefox/addon/rightclickxss/)
