@@ -39,30 +39,30 @@ echo -e "Usage:\n\t"
 echo -e "bash $0 run"
 echo -e "\n"
 echo -e '[%%] Available Add-ons:'
-echo '* Advanced Dork
-* Cookie Export/Import
-* Cookie Manager+
-* Copy as Plain Text
-* Crypto Fox
-* CSRF-Finder
+echo '* Advanced Dork (Firefox Quantum deprecated)
+* Cookie Export/Import (Firefox Quantum deprecated)
+* Cookie Manager+ (Firefox Quantum deprecated)
+* Copy as Plain Text (Firefox Quantum deprecated)
+* Crypto Fox (Firefox Quantum deprecated)
+* CSRF-Finder (Firefox Quantum deprecated)
 * Disable WebRTC
-* FireBug
+* FireBug (Firefox Quantum deprecated)
 * Fireforce
 * FlagFox
 * Foxy Proxy
 * Greasemonkey
-* HackBar
+* HackBar (Firefox Quantum deprecated)
 * IP Address and Domain Information
-* JavaScript Deobfuscator
-* Live HTTP Headers
-* PassiveRecon
-* Regular Expressions Tester
+* JavaScript Deobfuscator (Firefox Quantum deprecated)
+* Live HTTP Headers (Firefox Quantum deprecated)
+* PassiveRecon (Firefox Quantum deprecated)
+* Regular Expressions Tester (Firefox Quantum deprecated)
 * RESTED
-* Right-Click XSS
-* Shodan
-* Tamper Data
-* ThreatPinch Lookup
-* User Agent Switcher
+* Right-Click XSS (Firefox Quantum deprecated)
+* Shodan (Firefox Quantum deprecated but replaced)
+* Tamper Data (Firefox Quantum deprecated)
+* ThreatPinch Lookup (Firefox Quantum deprecated)
+* User Agent Switcher (Firefox Quantum deprecated)
 * Wappalyzer
 * Web Developer
 '
